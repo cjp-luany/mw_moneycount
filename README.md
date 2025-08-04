@@ -134,6 +134,7 @@ moneycount/
 ## 6. TODO 列表
 
 ### 近期开发计划
+- [ ] **docker部署**：打包环境到docker
 - [ ] **服务器部署**：将应用迁移到Flask/Django框架
 - [ ] **RESTful API开发**：创建数据访问和分析接口
 - [ ] **移动端应用**：开发iOS/Android客户端
