@@ -1,0 +1,1 @@
+SELECT pay_time, pay_money, pay_tag FROM $$table_name$$
