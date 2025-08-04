@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS $$table_name$$  (
   pay_money NUMERIC NOT NULL,
   pay_tag VARCHAR,
   app_source VARCHAR,
-  PRIMARY KEY (id, pay_monthyear, pay_money)
+  PRIMARY KEY (id, pay_monthyear, pay_money) )

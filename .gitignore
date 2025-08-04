@@ -1,10 +1,5 @@
 *.db
-/data/*.csv
-/data/*.xlsx
-/data/*.xls
-/data/*.jpg
-/data/*.png
-/data/*.jpeg
-/data/*.txt
+*.zip
+*.csv
 /org/*
 
